@@ -39,6 +39,8 @@ SUM([Exited])
 
 ## 6. Customer Service Issues
 Percentage of inactive customers who reported complaints before leaving: **99.69%**
+
+
 ![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQE5-FtH1WRrJg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726693685139?e=1732147200&v=beta&t=V4iZewU9HZfyWY47SjAEuwjVo3MDa8TzQmzEPIC6wsY)
 
 ## Conclusion
