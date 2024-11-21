@@ -20,28 +20,28 @@ SUM([Exited])
 - Churn rate: **20.38%**
 ## 2. Profile of Customers Who Left the Bank
 - Age group with the highest churn: **45 to 60 years**
-  ![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQGlcgY5oCDPWg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726692851047?e=1732147200&v=beta&t=rgL6AYMJT4HviXUB52L6ZR1ZWsfF3O2h1olEosewW04)
+  ![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQGlcgY5oCDPWg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726692851047?e=1737590400&v=beta&t=J1hvqyY8Y82SU9SVek3LWnKd6BrLZK7vI0w_97EkGx4)
 
 ## 3. Location of Customers Who Left the Bank
 - Country with the highest churn: **Germany (32%)**
- ![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQHtO6rBKsaI5Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726693024322?e=1732147200&v=beta&t=FJHAXkcWEd-EMmfjxBKBiibRyA5-eSoG85gO7e35-R4)
+ ![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQHtO6rBKsaI5Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726693024322?e=1737590400&v=beta&t=b6CuQ70elVCQhBa1BP4B6YS3dJJiMgSVhQXcrE8gRG8)
 
 ## 4. Types of Cards and Banking Products
 - The main type of card held by departing customers: **Diamond**
 - The average number of banking products held by these customers: **3 to 4**
 
-![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQGEDh62IoqU8g/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1726693287163?e=1732147200&v=beta&t=6WzipTnt-42GgXvrfNQKlWavhY8KSbBPaRdEvjNsYn0)
+![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQGEDh62IoqU8g/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1726693287163?e=1737590400&v=beta&t=S9uysFF45oDksPeUPAc3Ki_-DmpCdlXFRw8fTWMGzo0)
 ![image](https://github.com/user-attachments/assets/c3be62be-4c64-4c31-8870-1ebef8e6dd83)
 
 ## 5. Engagement with the Loyalty Program
 - Average loyalty points accumulated: **150 points**
-![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQHJql7Za0P_dA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726693485983?e=1732147200&v=beta&t=nfyXSRx0MgIcBvNvbYrpRpVWmFK-e-DKwWp0QVSkRIk)
+![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQHJql7Za0P_dA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726693485983?e=1737590400&v=beta&t=KoLA-w12Qxaajg6qpoU8ZyYpRDO9Bz9QaxYoQqrNFr8)
 
 ## 6. Customer Service Issues
 Percentage of inactive customers who reported complaints before leaving: **99.69%**
 
 
-![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQE5-FtH1WRrJg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726693685139?e=1732147200&v=beta&t=V4iZewU9HZfyWY47SjAEuwjVo3MDa8TzQmzEPIC6wsY)
+![Captura de Tela](https://media.licdn.com/dms/image/v2/D4D12AQE5-FtH1WRrJg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726693685139?e=1737590400&v=beta&t=tJ6yEN_3Hep2BmQak1ysGrflqlKUd-F-h9J-mQUoUo8)
 
 ## Conclusion
 The fictional Bank is facing a critical customer attrition issue, especially among older clients and those from the German market. These customers maintain diverse financial relationships and accumulate points in the loyalty program, but ineffective customer service, particularly regarding complaints, is causing them to lose trust and migrate to other institutions.
