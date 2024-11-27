@@ -1,4 +1,4 @@
-# Project - Bank Customer Churn Story ( Predictive analysis with Tableau)
+# Project - Bank Customer Churn Story ( Descriptive  analysis with Tableau)
 I recently conducted a descriptive analysis using a fictional Kaggle dataset. This exercise allowed me to apply and consolidate my knowledge in data analysis, from the initial exploration to interpreting valuable insights. During the analysis, I used Tableau to visualize trends and patterns, as well as applied data cleaning and transformation techniques
 ## Formulas
 #### Number of Customers
