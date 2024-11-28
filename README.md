@@ -52,3 +52,4 @@ The fictional Bank is facing a critical customer attrition issue, especially amo
 - Focus on retention initiatives for clients with Diamond card, strengthening relationships and loyalty.
   
 [Check out the dashboard at this link.](https://public.tableau.com/views/BankCustomerChurnStory_17087902764790/CustomerChurnStory?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# [ Outhers Projects](https://yurimoura.carrd.co/)
